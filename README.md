@@ -30,7 +30,10 @@ A data analyst is collecting information about bike rentals in NYC with the goal
 - Rental periods for male customers start decreasing at 5 hours, while female rentals continue to increase/remain constant until an 8 hour length. 
 
 ## Summary:
-- The majority of users of CitiBike are male and subscribers. The most common checkout times are either less than 1 hour
+- The majority of users of CitiBike are male and subscribers. The most common checkout times are either less than 1 hour or 4-6 hours
+- Heatmaps suggest the top starting and ending locations are in the same bike hub locations. Users may be returning the bike to the same location, as in a round trip, or not traveling very far to commute. 
+- Peak times for subscribers, and overall, are 8am-9am and 5pm-6pm. This data is shown for peak August hours and throughout each weekday and when separated by gender. Peak hours on weekends last late morning through the evening. 
+- Thursdays are the busiest day of the week, Wednesdays are the least busy. 
 #### Additional visualizations suggested:
 - One visualization suggested to provide more insight is average checkout times by user type (subscriber or customer). This could provide the company more information to give incentives to riders who use the bike for either a very short amount of time or all day. 
 - Another visualization that would help the company provide the best service to subscribers would be the top starting and ending locations for bike rides broken down by usertype. Then, add a filter to only view the peak times, 8am-9am and 5pm-6pm. This information can help optimize locations to establish bike hubs based on usage. 
